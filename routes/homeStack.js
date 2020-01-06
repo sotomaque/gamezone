@@ -8,7 +8,6 @@ const screens = {
         screen: Home,
         navigationOptions: {
             title: 'GameZone'
-            
         }
     },
     ReviewDetails: {
